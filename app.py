@@ -5,7 +5,7 @@ import plotly.express as px
 # Konfigurasi dashboard agar lebar (lebar penuh)
 st.set_page_config(layout="wide", page_title="Expenses Dashboard")
 
-st.title("📊 coba-coba")
+st.title("📊 Expenses Dashboard")
 
 # Simulasi data
 data = {
